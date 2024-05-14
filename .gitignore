@@ -1,0 +1,42 @@
+# ASP.NET Core
+
+# Carpeta bin generada durante la compilación
+bin/
+obj/
+
+# Archivos de configuración local o de usuario
+appsettings.json
+appsettings.Development.json
+launchSettings.json
+
+# Archivos de caché y registros
+Debug/
+Release/
+.vs/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# Carpetas de dependencias de NuGet
+/packages/
+*.nuget.*
+
+# Archivos generados por Visual Studio
+*.dll
+*.pdb
+*.exe
+*.log
+
+# Archivos generados por Rider
+.idea/
+
+# Carpeta de resultados de pruebas
+/TestResults/
+
+# Archivos de compilación de TypeScript
+*.js
+*.js.map
+
+# Carpeta de dependencias npm
+node_modules/
